@@ -11,3 +11,6 @@ We tried running the program with the the button push to turn the light on. At f
 
 ## Week 4
 We got help and finally figured out how to make the button program run. We played around with it and changed some intervals.
+
+## Week 5
+We added a delay to the SimpleToggle program and light turns on a lot better when the button is pressed. 
