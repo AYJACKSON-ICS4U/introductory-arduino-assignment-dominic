@@ -14,3 +14,6 @@ We got help and finally figured out how to make the button program run. We chang
 
 ## Week 5
 We added a delay to the SimpleToggle program and light turns on a lot better when the button is pressed. After, we tried using millis instead of delay, because delay stops the program. We encountered obstacles in our new code but we figured out it out with the placement of our new coding. There was a problem with printing things out because we thought that the language was java but then we figured out how to do it.
+
+## Week 6
+We juat explored some code and fixed some issues. We decided to add 2 and 3 LEDs to our ardino board and change the code to turn the LEDs on. We also changed the code to allow for the LEDs to turn one at a time and the colours changed.  
